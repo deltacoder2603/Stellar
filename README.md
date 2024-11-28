@@ -1,5 +1,7 @@
 # Stellar-The Article Summarizer
 
+[Live Demo](https://stellar-ochre.vercel.app)
+
 Welcome to Stellar! This is an article summarizer web application powered by OpenAI's Chat GPT 4 API. Say goodbye to long hours of reading articles; let Stellar do the summarizing for you!
 
 ### Features
