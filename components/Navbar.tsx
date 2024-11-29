@@ -16,7 +16,7 @@ export default function Navbar() {
       </Head>
       <div className="relative z-10 pt-10 pl-8">
         <SparklesText text="Article Summarizer" />
-        <h2 style={{ fontFamily: 'Quicksand, sans-serif' }} className="text-gray-300 text-4xl pt-[70px]">
+        <h2 style={{ fontFamily: 'Quicksand, sans-serif' }} className="text-gray-300 text-4xl pt-[50px]">
           Enhance your reading experience with{" "}
           <span className="text-transparent bg-clip-text bg-gradient-to-r to-red-400 from-red-500">
             Stellar
